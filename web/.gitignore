@@ -1,26 +1,5 @@
-/readme.md.txt
-
-# dependencies
-/node_modules
-**/node_modules
-
-# testing
-/coverage
-
-# production
-/build
-
-# misc
-.DS_Store
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# logs
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
+# NOT NEEDED AS WE HAVE CLIENT + SERVER PROJECT TOGETHER ON REPO -> EXTERNAL INGNORE FILE IS ACTING
+# See http://help.github.com/ignore-files/ for more about ignoring files.
 
 # Compiled output
 /dist
@@ -44,7 +23,6 @@ yarn-error.log
 
 # Visual Studio Code
 .vscode/*
-**/.vscode
 !.vscode/settings.json
 !.vscode/tasks.json
 !.vscode/launch.json
