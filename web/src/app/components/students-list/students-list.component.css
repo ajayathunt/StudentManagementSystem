@@ -1,0 +1,9 @@
+button {
+  font-size: 12px;
+  line-height: 16px;
+}
+
+#add-new-btn {
+  float: right;
+  margin-bottom: 20px;
+}
